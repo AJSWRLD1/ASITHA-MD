@@ -5,6 +5,6 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "",𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=62wUGZCL#rlkMF0SMw23SDbzqf1Hx3dIl5qFfAc4CjtwKiQBST8g
 MONGODB: process.env.MONGODB || "",//enter mongo db url හදන විදිය පල්ලෙහාබටන් එකක් ඇති
 };
